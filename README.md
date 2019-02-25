@@ -1,2 +1,1 @@
-# Guala
-Business Info Systems
+lightskingawd.github.io
